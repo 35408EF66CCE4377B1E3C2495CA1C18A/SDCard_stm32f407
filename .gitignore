@@ -1,3 +1,31 @@
+# Platform files
+*.bak
+*.ddk
+*.edk
+*.lst
+*.lnp
+*.mpf
+*.mpj
+*.obj
+*.omf
+*.plg
+*.rpt
+*.tmp
+*.__i
+*.crf
+*.d
+*.axf
+*.tra
+*.dep
+JLinkLog.txt
+*.hex
+
+*.iex /s
+*.htm /s
+*.sct /s
+*.map /s
+
+
 # Compiled Object files
 *.slo
 *.lo
